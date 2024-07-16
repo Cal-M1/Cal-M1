@@ -6,7 +6,7 @@
 <h3 align="center">I'm studying CS50x to deepen my understanding of programming fundamentals and gain hands on project experience. My goal is to expand my knowledge and enhance my skill set.</h3>
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" /><br>
