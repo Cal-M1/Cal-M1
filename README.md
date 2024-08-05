@@ -9,6 +9,6 @@
 <h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,html,css" /><br>
 </div>
 
