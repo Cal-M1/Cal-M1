@@ -7,12 +7,6 @@
   <h3 align="center">I'm studying CS50x to deepen my understanding of programming fundamentals and gain hands on project experience. My goal is to expand my knowledge and enhance my skill set.</h3>
 </div>
 
-- name: generate-snake-game-from-github-contribution-grid
-
-
-              
-  uses: Platane/snk@v3.2.0
-
 ###
 
 <div align="center">
