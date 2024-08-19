@@ -3,7 +3,9 @@
   
 ![212284136-03988914-d899-44b4-b1d9-4eeccf656e44](https://github.com/user-attachments/assets/c61c34a9-cf23-4720-9eaa-0051bf4d15b9)
 
-<h3 align="center">I'm studying CS50x to deepen my understanding of programming fundamentals and gain hands on project experience. My goal is to expand my knowledge and enhance my skill set.</h3>
+<div align="center">
+  <h3 align="center">I'm studying CS50x to deepen my understanding of programming fundamentals and gain hands on project experience. My goal is to expand my knowledge and enhance my skill set.</h3>
+</div>
 
 <img src="https://raw.githubusercontent.com/cal-m1/cal-m1/output/snake.svg" alt="Snake animation" />
 
