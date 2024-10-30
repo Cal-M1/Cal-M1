@@ -1,10 +1,8 @@
-<h1 align="center">
 <h1 align="center">Hi 👋, I'm Callum</h1>
   
-![212284136-03988914-d899-44b4-b1d9-4eeccf656e44](https://github.com/user-attachments/assets/c61c34a9-cf23-4720-9eaa-0051bf4d15b9)
-
 <div align="center">
-  <h3 align="center">I'm studying CS50x to deepen my understanding of programming fundamentals and gain hands on project experience. My goal is to expand my knowledge and enhance my skill set.</h3>
+  <h3 align="center">I am an aspiring developer, currently in my final year at college, working on projects in my free time and building my skills in software development. 😊</h3>
+  <p align="center">Currently, I'm working on my portfolio site and expanding my platformer game made in Pygame-CE.</p>
 </div>
 
 ###
